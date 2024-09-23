@@ -29,7 +29,7 @@ app.post('*', (req, res) => {
     res.send("Hello!");
 })
 
-app.pu('*', (req, res) => {
+app.put('*', (req, res) => {
     res.send("Welcome!");
 })
 

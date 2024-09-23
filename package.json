@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node middleware1.js",
-    "start1": "node middleware1.js",
-    "start2": "node middleware1.js"
+    "start1": "node middleware2.js",
+    "start2": "node middleware3.js"
   },
   "keywords": [],
   "author": "",
