@@ -1,0 +1,15 @@
+{
+  "name": "middleware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node middleware1.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
