@@ -27,10 +27,8 @@ app.get("/sum/:num1/:num2", (req, res) => {
 
 // create a route for subtract
 app.get("/subtract/:num1/:num2", (req, res) => {
-    // get the values of num1 and num2 from the request parameters and store them in num1 and num2 variables
     const { num1, num2 } = req.params;
 
-    // send the result of subtracting num2 from num1 as a response to the client
     res.send({
         result: parseInt(num1) - parseInt(num2),
     });
