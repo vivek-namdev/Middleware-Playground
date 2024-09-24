@@ -5,7 +5,12 @@
   "scripts": {
     "start": "node middleware1.js",
     "start1": "node middleware2.js",
-    "start2": "node middleware3.js"
+    "start2": "node middleware3.js",
+    "start3": "node middleware4.js",
+    "start4": "node middleware5.js",
+    "start5": "node middleware6.js",
+    "start6": "node middleware7.js",
+    "start7": "node middleware8.js"
   },
   "keywords": [],
   "author": "",
